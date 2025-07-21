@@ -1,7 +1,7 @@
 import { CORE_CONCEPTS } from './data.js';
 import Header from './components/Header/Header.jsx';
 import CoreConcept from './components/CoreConcept.jsx';
-import TabButton from './TabButton.jsx';
+import TabButton from './components/TabButton.jsx';
 
 function App() {
   return (
